@@ -14,7 +14,7 @@
 > _Chuyên sâu vào chỉnh sửa và thiết kế đồ họa với Photoshop, phát triển kỹ năng biên tập hình ảnh và nâng cao chất lượng nội dung đồ họa._
 </div>
 
-- __Photoshop freelance__
+- __Photoshop Freelance__
     <div class="annotate" markdown>
 > <span style="color: hsl(45, 54%, 58%);">06/2019 - 10/2019:</span>  
 > _Quản lý đội ngũ photo editer thực hiện các công việc về xử lý hình ảnh bằng Photoshop._
@@ -29,7 +29,7 @@
 > _Sản xuất phim kiến trúc bằng 3Ds Max, nâng cấp chất lượng video và cảnh quay với After Effects, chú trọng vào hiệu ứng và chuyển động hậu kỳ._
 </div>
 
-- __3D Modeling freelance__
+- __3D Modeling Freelance__
     <div class="annotate" markdown>
 > <span style="color: hsl(45, 54%, 58%);">01/2020 - 06/2021:</span>  
 > _Thực hiện các dự án mô hình hóa 3D cho VR, tạo ra gần 1000 mô hình 3D và vật liệu PBR, tập trung vào tối ưu hóa mô hình với chất lượng tốt nhất._

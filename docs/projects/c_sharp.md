@@ -20,7 +20,7 @@ Thông qua Philogix Manager, người dùng có thể nhận nhiệm vụ, truy 
 Ứng dụng này được thiết kế để đáp ứng nhu cầu quản lý nguồn nhân lực và dự án của các studio và công ty chuyên nghành 3D, đồng thời cải thiện quy trình làm việc và đảm bảo tiến độ dự án. Philogix Manager đóng vai trò là một công cụ quản lý tập trung, giảm thiểu sự phân tán công cụ và tối ưu hóa sự phối hợp giữa các bộ phận làm việc.
 
 
-## Horrno Game
+## Horror Game
 
 ![type:video](../assets/horror_video_1.mp4)
 ![type:video](../assets/horror_video_2.mp4)

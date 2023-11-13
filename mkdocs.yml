@@ -145,6 +145,7 @@ nav:
 
   - Portfolio:
     - 3D Modeling: projects/modeling.md
+    - 3D Environment: projects/environment.md
     - Tech & Development: projects/c_sharp.md
 
   - Liên Hệ: contact.md
