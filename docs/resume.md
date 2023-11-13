@@ -41,7 +41,7 @@
 > _Phát triển add-on cho Blender để tối ưu quy trình dựng hình 3D, nổi bật là add-on Philogix PBR Painter được nhiều người dùng đánh giá cao._
 >
 > <span style="color: hsl(45, 54%, 58%);">06/2022 - 01/2023:</span>  
-> _Phát triển ứng dụng C# cho window, có chức năng quản lý các dự án modeling._
+> _Phát triển ứng dụng quản lý các dự án modeling trên window bằng C#._
 </div>
 
 - __Phát triển game 3D__
@@ -65,4 +65,4 @@ _Kỹ năng tạo ra và chỉnh sửa video chuyên nghiệp, sử dụng After
 _Sự hiểu biết về lưới 3D, thiết kế vật liệu PBR và tối ưu hóa ánh sáng để sản xuất các mô hình hiệu quả và thẩm mỹ cao._
 
 - <span style="color: hsl(45, 54%, 58%);">__Phát triển Phần mềm và Lập trình__:</span>  
-_Kinh nghiệm trong việc phát triển phần mềm với C#, tạo add-on cho Blender bằng Python, và sử dụng Unreal Engine và Blueprint để phát triển các game._
+_Kinh nghiệm trong việc phát triển phần mềm với C#, tạo add-on cho Blender bằng Python, và sử dụng Unreal Engine và Blueprint để phát triển game._
