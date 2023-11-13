@@ -1,6 +1,6 @@
 ## Giới thiệu
 
-Với ba năm kinh nghiệm sâu rộng trong việc sử dụng Adobe Photoshop, tôi đã hoàn thiện kỹ năng của mình từ những bước chỉnh sửa cơ bản đến những phương pháp xử lý hình ảnh chuyên nghiệp, luôn đặt tiêu chuẩn cao nhất cho chất lượng và hiệu quả trình bày sản phẩm cuối cùng. 
+Với ba năm kinh nghiệm trong việc sử dụng Adobe Photoshop, tôi đã hoàn thiện kỹ năng của mình từ những bước chỉnh sửa cơ bản đến những phương pháp xử lý hình ảnh chuyên nghiệp, luôn đặt tiêu chuẩn cao nhất cho chất lượng và hiệu quả trình bày sản phẩm cuối cùng. 
 
 Sự nghiệp của tôi tiếp tục phát triển trong lĩnh vực diễn họa kiến trúc, nơi tôi đã tích lũy kỹ năng mô phỏng đặc điểm kiến trúc một cách chính xác và hiệu quả thông qua 3ds Max và V-Ray, với khả năng tạo ra ánh sáng tự nhiên và hiệu ứng bóng đổ sống động, đồng thời áp dụng linh hoạt các nguyên tắc thiết kế trong bối cảnh thực tế.
 

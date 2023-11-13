@@ -25,9 +25,9 @@ Thông qua Philogix Manager, người dùng có thể nhận nhiệm vụ, truy 
 ![type:video](../assets/horror_video_1.mp4)
 ![type:video](../assets/horror_video_2.mp4)
 
-Hiện tại, tôi đang trong giai đoạn đầu của quá trình nghiên cứu và phát triển game sử dụng Unreal Engine, một công cụ mạnh mẽ cho việc tạo ra các trò chơi 3D với đồ họa và cơ chế gameplay tiên tiến. Qua quá trình tự học và thực hành, tôi đang tìm hiểu sâu rộng về các công nghệ nền tảng này cung cấp, từ lập trình đồ họa, đến áp dụng vật liệu và kỹ thuật chiếu sáng PBR, nhằm mục đích phát triển trò chơi có chất lượng hình ảnh cao và trải nghiệm người chơi mượt mà.
+Hiện tại, tôi đang trong giai đoạn đầu của quá trình nghiên cứu và phát triển game sử dụng Unreal Engine, một công cụ mạnh mẽ cho việc tạo ra các trò chơi 3D với đồ họa và cơ chế gameplay tiên tiến. Qua quá trình tự học và thực hành, tôi đang tìm hiểu về các công nghệ nền tảng này cung cấp, từ lập trình đồ họa, đến áp dụng vật liệu và kỹ thuật chiếu sáng PBR, nhằm mục đích phát triển trò chơi có chất lượng hình ảnh cao và trải nghiệm người chơi mượt mà.
 
-Mặc dù chưa có sản phẩm hoàn chỉnh nào, tôi đã bắt đầu xây dựng các mô-đun cơ bản và khám phá khả năng tạo môi trường, thiết lập cốt truyện, và tích hợp các thành phần tương tác vào trong game. Tôi cam kết sử dụng kiến thức thu được để đóng góp vào việc tạo dựng các trải nghiệm game độc đáo và thú vị trong tương lai.
+Mặc dù chưa có sản phẩm hoàn chỉnh nào, tôi đã bắt đầu xây dựng các mô-đun cơ bản và khám phá khả năng tạo môi trường, thiết lập cốt truyện, và tích hợp các thành phần tương tác vào trong game. Tôi mong sử dụng kiến thức thu được để tạo dựng các trải nghiệm game độc đáo và thú vị trong tương lai.
 
 Tôi tin rằng việc tiếp tục học hỏi và thử nghiệm trong Unreal Engine sẽ mở ra cơ hội để tôi phát triển và hoàn thiện kỹ năng, sẵn sàng cho các dự án lớn hơn và hợp tác chuyên nghiệp tiếp theo.
 

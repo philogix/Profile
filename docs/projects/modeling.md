@@ -1,7 +1,7 @@
 ## Mô Hình Nhân Vật (Character Models):
 >  Với niềm đam mê dành cho việc tạo hình và khắc họa nhân vật, tôi đã tạo ra một loạt các mô hình nhân vật 3D chi tiết cao và sắc nét
 
-![type:video](https://cdn.artstation.com/p/video_sources/000/336/377/art-1.mp4)
+![type:video](../assets/art-1.mp4)
 ![Alt text](../assets/mode_4.jpg)
 ![Alt text](../assets/mode_5.jpg)
 
