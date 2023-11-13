@@ -17,7 +17,7 @@
 - __Photoshop Freelance__
     <div class="annotate" markdown>
 > <span style="color: hsl(45, 54%, 58%);">06/2019 - 10/2019:</span>  
-> _Quản lý đội ngũ photo editer thực hiện các công việc về xử lý hình ảnh bằng Photoshop._
+> _Quản lý đội ngũ photo editor thực hiện các công việc về xử lý hình ảnh bằng Photoshop._
 </div>
 
 - __Công ty TNHH VACS Việt Nam__

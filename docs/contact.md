@@ -2,6 +2,7 @@
 
 Để biết thêm thông tin, đề xuất hợp tác, hoặc yêu cầu tuyển dụng, xin vui lòng liên hệ qua các phương tiện sau hoặc gửi tin nhắn trực tiếp qua mẫu đơn dưới đây:
 
+- :fontawesome-solid-phone: _di động: [0839.914.653]()_
 - :fontawesome-solid-envelope: _[philogixstudio@gmail.com](mailto:philogixstudio@gmail.com)_
 - :fontawesome-brands-facebook: _[facebook.com/Philogix](https://www.facebook.com/Philogix)_
 - :fontawesome-brands-github: _[github.com/philogix](https://github.com/philogix)_
